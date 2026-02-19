@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 
+
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w2060404220.m3u8
